@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pancasila</title>
+</head>
+<body>
+
+    <h1><center>PANCASILA</center></h1>
+    <br><br>
+    <center><img src="pancasila.jpeg" alt="garuda" width="200" height="200" hspace="20" vspace="20"></center>
+    <br><br>
+    <img src="1.png" alt="Bintang" width="100" height="100" align="left" hspace="20" vspace="20">
+    <br><br>
+    <p>
+        <b>Ketuhanan Yang Maha Esa</b>
+    </p>
+    
+    <img src="2.png" alt="Rantai Emas" width="100" height="100" align="right" hspace="20" vspace="20">
+    <br><br>
+    <p style="text-align: right;">
+       <b>Kemanusiaan Yang Adil dan Beradab</b> 
+    </p>
+
+    <img src="3.png" alt="Pohon Beringin" width="100" height="100" align="left" hspace="20" vspace="20">
+    <br><br>
+    <p style="text-align: left;">
+        <b>Persatuan Indonesia</b>
+    </p>
+
+    <img src="4.png" alt="Banteng" width="100" height="100" align="right" hspace="20" vspace="20">
+    <br><br>
+    <p style="text-align: right;">
+        <b>Kerakyatan yang dipimpin oleh khidmat kebijaksanaan dalam permusyawaratan perwakilan</b>
+    </p>
+
+    <img src="5.png" alt="padi dan kapas" width="100" height="100" align="left" hspace="20" vspace="20">
+    <br><br>
+    <p style="text-align: left;">
+        <b>Keadilan sosial bagi seluruh rakyat Indonesia</b>
+    </p>
+</body>
+</html>
